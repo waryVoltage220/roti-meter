@@ -98,7 +98,7 @@ The website showing that the chapathi is Adipoli (good) in shape
 
 ## Team Contributions
 - [Habeeb Rahman M]: [Codin and buildin]
-- [Hadhiya K]: [Presentation]
+- [Hadhiya K]: [Presentation ]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
