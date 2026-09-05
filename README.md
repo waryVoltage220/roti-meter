@@ -56,16 +56,14 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1] <img width="1248" height="832" alt="Screenshot 2026-09-05 120101" src="https://github.com/user-attachments/assets/50151680-b245-45fd-98b7-ba3f173df8eb" />
+The Home page of the website
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
+![Screenshot2] <img width="1248" height="832" alt="Screenshot 2026-09-05 120120" src="https://github.com/user-attachments/assets/e7e6b7f1-5ddc-4d53-9782-93b99e8e4e2a" />
+The website showing that the chapathi uploaded is not good in shape
+![Screenshot3] ![Uploading Screenshot 2026-09-05 120150.png…]()
+The website showing that the chapathi is Adipoli (good) in shape
+#Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 [ Chapati / Prop Image ] 
@@ -89,37 +87,18 @@ For Software:
                                                │
                                                ▼
                                   [ Printable Govt Certificate ]
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
 
 ![Schematic](Add your schematic diagram here)
 *Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
 [Add your demo video link here]
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
-
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Habeeb Rahman M]: [Codin and buildin]
+- [Hadhiya K]: [Presentation]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
